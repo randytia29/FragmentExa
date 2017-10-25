@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentExa</string>
+    <string name="profile_icon">Profile</string>
+    <string name="search_icon">Search</string>
+    <string name="item">Item</string>
+    <string name="snap_center">Snap Center</string>
+</resources>
